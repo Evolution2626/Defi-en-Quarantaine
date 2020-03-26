@@ -3,6 +3,9 @@
 Le défi de programmation en quarantaine de l'équipe 2626 est un défi lancé à toutes les équipes FRC du Québec. Le défi consiste à programmer tous ensemble un robot FRC d’une année précédente à l’aide d’un robot reveal. Le robot qui a été choisi est le robot de 2019 de l’équipe 118 Robonauts.
 
 Vous pouvez visionner le vidéo de présentation du robot ici: [https://www.youtube.com/watch?v=kyfb8lGAveY](https://www.youtube.com/watch?v=kyfb8lGAveY)
+
+Le CAD du robot est disponible ici: [https://ccisdrobonauts.org/uploads/2019%20Flyby%20CAD.zip](https://ccisdrobonauts.org/uploads/2019%20Flyby%20CAD.zip)
+
 Vous pouvez visionner le vidéo de présentation du défi de 2019 ici: [https://www.youtube.com/watch?v=Mew6G_og-PI](https://www.youtube.com/watch?v=Mew6G_og-PI)
 
 Le langage de programmation utilisé pour le défi est Java.
