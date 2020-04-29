@@ -16,4 +16,28 @@ package frc.robot;
  * constants are needed, to reduce verbosity.
  */
 public final class Constants {
+
+    public interface USB {
+        int DRIVER_GAMEPAD = 0;
+        int CODRIVER_GAMEPAD = 1;
+    }
+    public interface AXES {
+        int AXES_GAUCHE = 1;
+        int AXES_DROITES = 5;
+    }
+    public interface CAN {
+        int MOTEUR_AVANT_GAUCHE = 0;
+        int MOTEUR_MILIEU_GAUCHE = 1;
+        int MOTEUR_ARRIERE_GAUCHE = 2;
+        int MOTEUR_AVANT_DROIT = 3;
+        int MOTEUR_MILIEU_DROIT = 4;
+        int MOTEUR_ARRIERE_DROIT = 5;
+        int MOTEUR_MILIEU_MILIEU = 6;
+    }
+    public interface PCM {
+
+    }
+    public interface PWN {
+
+    }
 }
